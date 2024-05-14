@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>
+  Hi there, I'm Natuza 👋
+</h1>
 
-<!--
-**natuzamachado/natuzamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  After having a lot of fun learning HTML, CSS, JavaScript and React, I decided to dive deeper in tecnology by pursuing a Computer Science degree <img src="img_girl.jpg" alt="a girl in front of a laptop" style=width:30px;height:30px;>
+  
+  Also, I recently learned about cloud services and achieved a certification as an AWS Cloud Practioner <img src="cloud-service.png" alt="a cloud emoji" style=width:30px;height:30px;>
+</h3>
+
 
 Here are some ideas to get you started:
 
