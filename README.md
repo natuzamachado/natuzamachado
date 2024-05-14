@@ -5,7 +5,7 @@
 <h2>
   After having a lot of fun teaching myself programming, I decided to dive deeper into tecnology by pursuing a Computer Science degree <img src="counseling.png" alt="a girl in front of a laptop" style=width:40px;height:35px;><br><br>
   
-  Also, I recently studied cloud computing and achieved a certification as an AWS Cloud Practioner <img src="cloud-service.png" alt="a cloud emoji" style=width:30px;height:30px;> 
+  I recently studied cloud computing and achieved a certification as an AWS Cloud Practioner <img src="cloud-service.png" alt="a cloud emoji" style=width:30px;height:30px;> 
 </h2>
 
 <h3>This are the tecnologies I've studied so far:</h3>
