@@ -21,6 +21,7 @@
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=natuzamachado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natuzamachado&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
+</p><br>
+<h4>You can find me on linkedin through the link attached to the below icon:</h4>
 <a href="https://www.linkedin.com/in/natuza-machado-246a60294/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
